@@ -7,12 +7,12 @@
 启动限速，限制备份上传速度为200kb/s：
 
 ```
-sh net_limit.sh start 200
+# sh net_limit.sh start 200
 ```
 
 停止限速：
 
 ```
-sh net_limit.sh stop
+# sh net_limit.sh stop
 ```
 
